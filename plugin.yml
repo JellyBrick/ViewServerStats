@@ -1,0 +1,8 @@
+name: ViewServerStats
+main: VSS\VSS
+version: "1.0"
+author: JellyBrick
+api:
+- 1.13.0
+- 1.13.1
+- 2.0.0
